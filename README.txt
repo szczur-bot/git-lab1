@@ -1,3 +1,4 @@
 ja homjak ty katjonok
 bbbvbgffvbvddsxx spoko ok
-cos innego
+<<<<<<< HEAD
+cos innego ok
